@@ -13,3 +13,5 @@ In the project directory, you can run in the command:
 
 Get url from the command to view it in your browser.
 
+
+Get to [my video](https://www.loom.com/share/513d1421831b43d9aa78b6e05329e306) to know more details. Thank you!
