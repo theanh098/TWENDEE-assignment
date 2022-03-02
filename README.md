@@ -7,7 +7,7 @@ To run it make sure you have installed Node. Get [here](https://nodejs.org) to i
 
 In the project directory, you can run in the command:
 
-### `npm install`
+
 ### `npm install -g serve`
 ### `serve -s build`
 
